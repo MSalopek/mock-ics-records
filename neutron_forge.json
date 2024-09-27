@@ -1,6 +1,6 @@
 {
     "init": {
-        "chain_id": "neutron-1",
+        "chain_id": "pion-1",
         "ics_settings": {
             "validators_power_cap": 5,
             "validator_set_cap": 100,
@@ -9,8 +9,8 @@
         }
     },
     "display": {
-        "name": "Neutron",
-        "description": "Neutron is the only blockchain network specifically designed to support Integrated Applications. By granting contracts the power of an appchain, Neutron minimises development overhead, facilitates improved mechanism design, lowers risk and enhances the scalability of decentralised applications.\n\nUnlike typical smart contracts, Integrated Applications have access to components of the blockchain that exist outside of their virtual machine: begin and end block automation, mempools, transaction fee mechanisms, consensus votes, interchain transactions and queries, and more.\n\nIntegrated Applications can customise their network’s blockspace to provide gasless onboarding to newly acquired users and do away with network selectors to onboard deposits from any connected blockchain in a single click. They can deploy and manage capital and integrations across multiple chains, maximising network effects and the ubiquity of their denominations.\n\nThese features allow Integrated Applications to establish stronger moats around their technology and business model, while providing a competitive edge that standard applications lack. This makes them inherently more attractive and competitive, as they operate on an enhanced platform offering higher performance and broader reach compared to traditional applications.",
+        "name": "Pion Chain",
+        "description": "Pion Chain is a persistent testnet used to test latest Neutron blockchain features. Neutron is the only blockchain network specifically designed to support Integrated Applications. By granting contracts the power of an appchain, Neutron minimises development overhead, facilitates improved mechanism design, lowers risk and enhances the scalability of decentralised applications.\n\nUnlike typical smart contracts, Integrated Applications have access to components of the blockchain that exist outside of their virtual machine: begin and end block automation, mempools, transaction fee mechanisms, consensus votes, interchain transactions and queries, and more.\n\nIntegrated Applications can customise their network’s blockspace to provide gasless onboarding to newly acquired users and do away with network selectors to onboard deposits from any connected blockchain in a single click. They can deploy and manage capital and integrations across multiple chains, maximising network effects and the ubiquity of their denominations.\n\nThese features allow Integrated Applications to establish stronger moats around their technology and business model, while providing a competitive edge that standard applications lack. This makes them inherently more attractive and competitive, as they operate on an enhanced platform offering higher performance and broader reach compared to traditional applications.",
         "links": {
             "logo": "https://example.com/neutron-logo.png",
             "discord": "https://discord.gg/neutron",
@@ -21,12 +21,6 @@
             "website": "https://neutron.org",
             "whitepaper": "https://neutron.org/whitepaper.pdf"
         },
-        "widgets": [{
-                "url": "https://neutron.org/widget1"
-            },
-            {
-                "url": "https://neutron.org/widget2"
-            }
-        ]
+        "widgets": []
     }
 }
