@@ -1,0 +1,32 @@
+{
+    "init": {
+        "chain_id": "mockchain-1",
+        "ics_settings": {
+            "validators_power_cap": 10,
+            "validator_set_cap": 20,
+            "allowlist": [],
+            "denylist": []
+        }
+    },
+    "display": {
+        "name": "Mockchain",
+        "description": "Introducing MockChain: The Future of Decentralized Social Networking\n\nMockChain is a groundbreaking blockchain project that aims to revolutionize the way we connect and interact online. By leveraging the power of blockchain technology, MockChain creates a truly decentralized social networking platform where users have full control over their data and digital identities.\n\nKey features:\n\n1. On-chain profiles: User profiles and connections are stored directly on the blockchain, ensuring data integrity and user ownership.\n\n2. Decentralized content sharing: Posts, comments, and media are distributed across the network, eliminating single points of failure and censorship.\n\n3. Token-based engagement: Users earn and spend native tokens for creating content, engaging with others, and accessing premium features.\n\n4. Smart contract-powered interactions: Friend requests, group formations, and content moderation are governed by transparent smart contracts.\n\n5. Interoperability: MockChain can easily connect with other blockchain-based applications, creating a rich ecosystem of decentralized services.\n\nJoin MockChain today and experience the next generation of social networking – secure, transparent, and truly owned by its users.",
+        "links": {
+            "logo": "https://example.com/myspace-logo.png",
+            "discord": "https://discord.gg/myspace",
+            "email": "contact@myspace.network",
+            "github": "https://github.com/myspace-network",
+            "telegram": "https://t.me/myspace",
+            "twitter": "https://twitter.com/myspace",
+            "website": "https://myspace.network",
+            "whitepaper": "https://myspace.network/whitepaper.pdf"
+        },
+        "widgets": [{
+                "url": "https://myspace.network/widget1"
+            },
+            {
+                "url": "https://myspace.network/widget2"
+            }
+        ]
+    }
+}
